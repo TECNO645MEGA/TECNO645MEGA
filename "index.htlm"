@@ -1,0 +1,15 @@
+<!DOCYPE HTLM>
+<htlm>
+<head>
+<title>PAGINA WEB SOBRE TELEFONOS Y TABLES Y PC Y CONSOLAS Y NINTENDO</title>
+<head>
+<body>
+<h1>Hola ,bienvenido esta es mi primera pagína web.</h1>
+<h4>Sign Up</h4>
+  <input type="text" placeholder="Email">
+  <br>
+  <input type="password" placeholder="Password">
+</body>
+</htlm>
+
+
